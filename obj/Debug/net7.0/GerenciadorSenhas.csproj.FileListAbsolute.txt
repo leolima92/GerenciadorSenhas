@@ -1,0 +1,15 @@
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Senhas\GerenciadorSenhas\GerenciadorSenhas\bin\Debug\net7.0\GerenciadorSenhas.exe
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Senhas\GerenciadorSenhas\GerenciadorSenhas\bin\Debug\net7.0\GerenciadorSenhas.deps.json
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Senhas\GerenciadorSenhas\GerenciadorSenhas\bin\Debug\net7.0\GerenciadorSenhas.runtimeconfig.json
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Senhas\GerenciadorSenhas\GerenciadorSenhas\bin\Debug\net7.0\GerenciadorSenhas.dll
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Senhas\GerenciadorSenhas\GerenciadorSenhas\bin\Debug\net7.0\GerenciadorSenhas.pdb
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Senhas\GerenciadorSenhas\GerenciadorSenhas\obj\Debug\net7.0\GerenciadorSenhas.csproj.AssemblyReference.cache
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Senhas\GerenciadorSenhas\GerenciadorSenhas\obj\Debug\net7.0\GerenciadorSenhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Senhas\GerenciadorSenhas\GerenciadorSenhas\obj\Debug\net7.0\GerenciadorSenhas.AssemblyInfoInputs.cache
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Senhas\GerenciadorSenhas\GerenciadorSenhas\obj\Debug\net7.0\GerenciadorSenhas.AssemblyInfo.cs
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Senhas\GerenciadorSenhas\GerenciadorSenhas\obj\Debug\net7.0\GerenciadorSenhas.csproj.CoreCompileInputs.cache
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Senhas\GerenciadorSenhas\GerenciadorSenhas\obj\Debug\net7.0\GerenciadorSenhas.dll
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Senhas\GerenciadorSenhas\GerenciadorSenhas\obj\Debug\net7.0\refint\GerenciadorSenhas.dll
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Senhas\GerenciadorSenhas\GerenciadorSenhas\obj\Debug\net7.0\GerenciadorSenhas.pdb
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Senhas\GerenciadorSenhas\GerenciadorSenhas\obj\Debug\net7.0\GerenciadorSenhas.genruntimeconfig.cache
+C:\Users\leona\OneDrive\Documentos\C#\Gerenciador Senhas\GerenciadorSenhas\GerenciadorSenhas\obj\Debug\net7.0\ref\GerenciadorSenhas.dll
